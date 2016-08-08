@@ -121,3 +121,4 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 # new settings here
+NEW_SETTING = 'This is my first Django project'
